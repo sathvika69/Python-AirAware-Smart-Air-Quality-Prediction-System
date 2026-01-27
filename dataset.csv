@@ -1,0 +1,97 @@
+country,state,city,station,last_update,latitude,longitude,pollutant_id,pollutant_min,pollutant_max,pollutant_avg
+India,Telangana,Hyderabad,"Ramachandrapuram, Hyderabad - TSPCB",29-11-2025 18:00:00,17.528544,78.286195,SO2,11.0,17.0,12.0
+India,Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB",29-11-2025 18:00:00,17.4559458,78.4332152,OZONE,12.0,15.0,14.0
+India,Telangana,Hyderabad,"Somajiguda, Hyderabad - TSPCB",29-11-2025 18:00:00,17.417094,78.457437,PM10,77.0,113.0,93.0
+India,Telangana,Hyderabad,"Somajiguda, Hyderabad - TSPCB",29-11-2025 18:00:00,17.417094,78.457437,NH3,4.0,5.0,5.0
+India,Telangana,Hyderabad,"Somajiguda, Hyderabad - TSPCB",29-11-2025 18:00:00,17.417094,78.457437,SO2,14.0,21.0,17.0
+India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",29-11-2025 18:00:00,17.349694,78.451437,NH3,3.0,3.0,3.0
+India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",29-11-2025 18:00:00,17.540891,78.358528,CO,18.0,40.0,27.0
+India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",29-11-2025 18:00:00,17.460103,78.334361,NH3,5.0,16.0,9.0
+India,Telangana,Hyderabad,"Kokapet, Hyderabad - TSPCB",29-11-2025 18:00:00,17.393559,78.339194,SO2,12.0,17.0,15.0
+India,Telangana,Hyderabad,"Kompally Municipal Office, Hyderabad - TSPCB",29-11-2025 18:00:00,17.544899,78.486949,NO2,9.0,14.0,12.0
+India,Telangana,Hyderabad,"Kompally Municipal Office, Hyderabad - TSPCB",29-11-2025 18:00:00,17.544899,78.486949,CO,10.0,12.0,10.0
+India,Telangana,Hyderabad,"Kompally Municipal Office, Hyderabad - TSPCB",29-11-2025 18:00:00,17.544899,78.486949,OZONE,17.0,36.0,31.0
+India,Telangana,Hyderabad,"New Malakpet, Hyderabad - TSPCB",29-11-2025 18:00:00,17.37206,78.50864,PM2.5,,,
+India,Telangana,Hyderabad,"New Malakpet, Hyderabad - TSPCB",29-11-2025 18:00:00,17.37206,78.50864,NH3,2.0,3.0,3.0
+India,Telangana,Hyderabad,"Ramachandrapuram, Hyderabad - TSPCB",29-11-2025 18:00:00,17.528544,78.286195,NO2,10.0,13.0,12.0
+India,Telangana,Hyderabad,"ECIL Kapra, Hyderabad - TSPCB",29-11-2025 18:00:00,17.470431,78.566959,PM2.5,58.0,59.0,58.0
+India,Telangana,Hyderabad,"ECIL Kapra, Hyderabad - TSPCB",29-11-2025 18:00:00,17.470431,78.566959,PM10,70.0,96.0,77.0
+India,Telangana,Hyderabad,"ECIL Kapra, Hyderabad - TSPCB",29-11-2025 18:00:00,17.470431,78.566959,CO,28.0,44.0,33.0
+India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",29-11-2025 18:00:00,17.5184,78.278777,CO,24.0,52.0,28.0
+India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",29-11-2025 18:00:00,17.5316895,78.218939,PM10,,,
+India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",29-11-2025 18:00:00,17.5316895,78.218939,OZONE,9.0,50.0,23.0
+India,Telangana,Hyderabad,"IITH Kandi, Hyderabad - TSPCB",29-11-2025 18:00:00,17.585705,78.126199,NH3,2.0,2.0,2.0
+India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",29-11-2025 18:00:00,17.540891,78.358528,PM2.5,,,
+India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",29-11-2025 18:00:00,17.540891,78.358528,NH3,,,
+India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",29-11-2025 18:00:00,17.540891,78.358528,OZONE,46.0,55.0,52.0
+India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",29-11-2025 18:00:00,17.460103,78.334361,NO2,38.0,125.0,74.0
+India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",29-11-2025 18:00:00,17.460103,78.334361,CO,26.0,58.0,30.0
+India,Telangana,Hyderabad,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",29-11-2025 18:00:00,17.429398,78.569354,PM2.5,54.0,86.0,65.0
+India,Telangana,Hyderabad,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",29-11-2025 18:00:00,17.429398,78.569354,PM10,75.0,101.0,86.0
+India,Telangana,Hyderabad,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",29-11-2025 18:00:00,17.429398,78.569354,OZONE,15.0,36.0,31.0
+India,Telangana,Hyderabad,"New Malakpet, Hyderabad - TSPCB",29-11-2025 18:00:00,17.37206,78.50864,SO2,12.0,19.0,15.0
+India,Telangana,Hyderabad,"New Malakpet, Hyderabad - TSPCB",29-11-2025 18:00:00,17.37206,78.50864,OZONE,11.0,40.0,29.0
+India,Telangana,Hyderabad,"Ramachandrapuram, Hyderabad - TSPCB",29-11-2025 18:00:00,17.528544,78.286195,PM2.5,42.0,57.0,46.0
+India,Telangana,Hyderabad,"Ramachandrapuram, Hyderabad - TSPCB",29-11-2025 18:00:00,17.528544,78.286195,PM10,61.0,83.0,68.0
+India,Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB",29-11-2025 18:00:00,17.4559458,78.4332152,CO,42.0,52.0,45.0
+India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",29-11-2025 18:00:00,17.349694,78.451437,NO2,16.0,36.0,29.0
+India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",29-11-2025 18:00:00,17.5184,78.278777,PM2.5,98.0,190.0,147.0
+India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",29-11-2025 18:00:00,17.5316895,78.218939,NH3,,,
+India,Telangana,Hyderabad,"IITH Kandi, Hyderabad - TSPCB",29-11-2025 18:00:00,17.585705,78.126199,PM2.5,43.0,88.0,68.0
+India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",29-11-2025 18:00:00,17.540891,78.358528,NO2,,,
+India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",29-11-2025 18:00:00,17.540891,78.358528,SO2,,,
+India,Telangana,Hyderabad,"ECIL Kapra, Hyderabad - TSPCB",29-11-2025 18:00:00,17.470431,78.566959,SO2,14.0,25.0,18.0
+India,Telangana,Hyderabad,"ECIL Kapra, Hyderabad - TSPCB",29-11-2025 18:00:00,17.470431,78.566959,OZONE,12.0,61.0,40.0
+India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",29-11-2025 18:00:00,17.5184,78.278777,OZONE,9.0,77.0,66.0
+India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",29-11-2025 18:00:00,17.5316895,78.218939,PM2.5,,,
+India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",29-11-2025 18:00:00,17.5316895,78.218939,NO2,,,
+India,Telangana,Hyderabad,"IITH Kandi, Hyderabad - TSPCB",29-11-2025 18:00:00,17.585705,78.126199,OZONE,20.0,25.0,22.0
+India,Telangana,Hyderabad,"Kokapet, Hyderabad - TSPCB",29-11-2025 18:00:00,17.393559,78.339194,NO2,13.0,16.0,14.0
+India,Telangana,Hyderabad,"Kokapet, Hyderabad - TSPCB",29-11-2025 18:00:00,17.393559,78.339194,NH3,2.0,3.0,3.0
+India,Telangana,Hyderabad,"Kompally Municipal Office, Hyderabad - TSPCB",29-11-2025 18:00:00,17.544899,78.486949,PM2.5,45.0,60.0,50.0
+India,Telangana,Hyderabad,"Kompally Municipal Office, Hyderabad - TSPCB",29-11-2025 18:00:00,17.544899,78.486949,SO2,10.0,12.0,11.0
+India,Telangana,Hyderabad,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",29-11-2025 18:00:00,17.429398,78.569354,NO2,10.0,17.0,12.0
+India,Telangana,Hyderabad,"Ramachandrapuram, Hyderabad - TSPCB",29-11-2025 18:00:00,17.528544,78.286195,OZONE,24.0,37.0,30.0
+India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",29-11-2025 18:00:00,17.349694,78.451437,SO2,3.0,4.0,4.0
+India,Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB",29-11-2025 18:00:00,17.4559458,78.4332152,SO2,6.0,13.0,10.0
+India,Telangana,Hyderabad,"Somajiguda, Hyderabad - TSPCB",29-11-2025 18:00:00,17.417094,78.457437,PM2.5,17.0,54.0,39.0
+India,Telangana,Hyderabad,"Somajiguda, Hyderabad - TSPCB",29-11-2025 18:00:00,17.417094,78.457437,NO2,17.0,19.0,18.0
+India,Telangana,Hyderabad,"Somajiguda, Hyderabad - TSPCB",29-11-2025 18:00:00,17.417094,78.457437,OZONE,18.0,60.0,50.0
+India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",29-11-2025 18:00:00,17.349694,78.451437,PM2.5,140.0,186.0,162.0
+India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",29-11-2025 18:00:00,17.349694,78.451437,CO,1.0,88.0,59.0
+India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",29-11-2025 18:00:00,17.349694,78.451437,OZONE,23.0,25.0,24.0
+India,Telangana,Hyderabad,"Kompally Municipal Office, Hyderabad - TSPCB",29-11-2025 18:00:00,17.544899,78.486949,PM10,76.0,94.0,84.0
+India,Telangana,Hyderabad,"Kompally Municipal Office, Hyderabad - TSPCB",29-11-2025 18:00:00,17.544899,78.486949,NH3,3.0,5.0,4.0
+India,Telangana,Hyderabad,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",29-11-2025 18:00:00,17.429398,78.569354,NH3,4.0,6.0,5.0
+India,Telangana,Hyderabad,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",29-11-2025 18:00:00,17.429398,78.569354,SO2,10.0,16.0,12.0
+India,Telangana,Hyderabad,"New Malakpet, Hyderabad - TSPCB",29-11-2025 18:00:00,17.37206,78.50864,PM10,,,
+India,Telangana,Hyderabad,"New Malakpet, Hyderabad - TSPCB",29-11-2025 18:00:00,17.37206,78.50864,NO2,12.0,15.0,12.0
+India,Telangana,Hyderabad,"New Malakpet, Hyderabad - TSPCB",29-11-2025 18:00:00,17.37206,78.50864,CO,30.0,42.0,38.0
+India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",29-11-2025 18:00:00,17.5184,78.278777,PM10,95.0,152.0,128.0
+India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",29-11-2025 18:00:00,17.5184,78.278777,NO2,9.0,22.0,14.0
+India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",29-11-2025 18:00:00,17.5184,78.278777,SO2,12.0,51.0,22.0
+India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",29-11-2025 18:00:00,17.5316895,78.218939,CO,17.0,68.0,42.0
+India,Telangana,Hyderabad,"IITH Kandi, Hyderabad - TSPCB",29-11-2025 18:00:00,17.585705,78.126199,NO2,13.0,15.0,13.0
+India,Telangana,Hyderabad,"IITH Kandi, Hyderabad - TSPCB",29-11-2025 18:00:00,17.585705,78.126199,SO2,12.0,13.0,13.0
+India,Telangana,Hyderabad,"IITH Kandi, Hyderabad - TSPCB",29-11-2025 18:00:00,17.585705,78.126199,CO,18.0,34.0,22.0
+India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",29-11-2025 18:00:00,17.460103,78.334361,PM2.5,70.0,182.0,114.0
+India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",29-11-2025 18:00:00,17.460103,78.334361,PM10,96.0,150.0,116.0
+India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",29-11-2025 18:00:00,17.460103,78.334361,SO2,9.0,31.0,17.0
+India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",29-11-2025 18:00:00,17.540891,78.358528,PM10,,,
+India,Telangana,Hyderabad,"Ramachandrapuram, Hyderabad - TSPCB",29-11-2025 18:00:00,17.528544,78.286195,NH3,2.0,3.0,3.0
+India,Telangana,Hyderabad,"Ramachandrapuram, Hyderabad - TSPCB",29-11-2025 18:00:00,17.528544,78.286195,CO,30.0,57.0,35.0
+India,Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB",29-11-2025 18:00:00,17.4559458,78.4332152,PM2.5,69.0,170.0,118.0
+India,Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB",29-11-2025 18:00:00,17.4559458,78.4332152,NO2,25.0,29.0,28.0
+India,Telangana,Hyderabad,"Somajiguda, Hyderabad - TSPCB",29-11-2025 18:00:00,17.417094,78.457437,CO,22.0,55.0,32.0
+India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",29-11-2025 18:00:00,17.349694,78.451437,PM10,100.0,158.0,138.0
+India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",29-11-2025 18:00:00,17.460103,78.334361,OZONE,7.0,21.0,14.0
+India,Telangana,Hyderabad,"ECIL Kapra, Hyderabad - TSPCB",29-11-2025 18:00:00,17.470431,78.566959,NO2,10.0,15.0,12.0
+India,Telangana,Hyderabad,"ECIL Kapra, Hyderabad - TSPCB",29-11-2025 18:00:00,17.470431,78.566959,NH3,2.0,4.0,3.0
+India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",29-11-2025 18:00:00,17.5184,78.278777,NH3,2.0,5.0,3.0
+India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",29-11-2025 18:00:00,17.5316895,78.218939,SO2,,,
+India,Telangana,Hyderabad,"IITH Kandi, Hyderabad - TSPCB",29-11-2025 18:00:00,17.585705,78.126199,PM10,92.0,92.0,92.0
+India,Telangana,Hyderabad,"Kokapet, Hyderabad - TSPCB",29-11-2025 18:00:00,17.393559,78.339194,PM2.5,40.0,52.0,46.0
+India,Telangana,Hyderabad,"Kokapet, Hyderabad - TSPCB",29-11-2025 18:00:00,17.393559,78.339194,PM10,,,
+India,Telangana,Hyderabad,"Kokapet, Hyderabad - TSPCB",29-11-2025 18:00:00,17.393559,78.339194,CO,25.0,40.0,33.0
+India,Telangana,Hyderabad,"Kokapet, Hyderabad - TSPCB",29-11-2025 18:00:00,17.393559,78.339194,OZONE,15.0,28.0,23.0
+India,Telangana,Hyderabad,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",29-11-2025 18:00:00,17.429398,78.569354,CO,23.0,41.0,38.0
