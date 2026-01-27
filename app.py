@@ -266,7 +266,7 @@ if 'telangana_data' not in st.session_state:
 @st.cache_data
 def load_telangana_data():
     try:
-        df = pd.read_csv('telangana_data.csv')
+        df = pd.read_csv('dataset.csv')
         # Convert pollutant_avg to numeric, handling empty strings
         df['pollutant_avg'] = pd.to_numeric(
             df['pollutant_avg'], errors='coerce')
