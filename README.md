@@ -10,7 +10,7 @@ To predict air quality levels using machine learning techniques based on histori
 - Python
 - Pandas, NumPy
 - Matplotlib, Seaborn
-- Scikit-learn
+- Streamlit
 
 ## **Dataset**
 Air quality dataset with parameters like PM2.5, PM10, NO2, SO2, CO.
